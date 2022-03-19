@@ -1,0 +1,9 @@
+{
+  "name": "polygone-in-battlecoin",
+  "version": "0.0.0",
+  "description": "polygone in battlecoin",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

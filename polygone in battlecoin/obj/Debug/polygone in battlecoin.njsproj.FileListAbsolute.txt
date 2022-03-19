@@ -1,0 +1,3 @@
+C:\101Tmp\edb\polygone in battlecoin\polygone in battlecoin\obj\Debug\polygone in battlecoin.njsproj.AssemblyReference.cache
+C:\101Tmp\edb\polygone in battlecoin\polygone in battlecoin\obj\Debug\polygone in battlecoin.njsproj.CoreCompileInputs.cache
+C:\101Tmp\edb\polygone in battlecoin\polygone in battlecoin\bin\Microsoft.NodejsTools.WebRole.dll
